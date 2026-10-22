@@ -1,0 +1,44 @@
+
+Number of payments: 300
+Float total, round at end: Rs. 65000.40
+Decimal total, round at end: Rs. 65000.40
+Difference (float - Decimal): Rs. 0.00
+Float total time: 0.000416 seconds
+Decimal total time: 0.003431 seconds
+Float, round each payment: Rs. 65000.82
+Decimal, round each payment: Rs. 65000.82
+Float per-payment time: 0.000637 seconds
+Decimal per-payment time: 0.003598 seconds
+
+Number of payments: 6,000
+Float total, round at end: Rs. 1300893.93
+Decimal total, round at end: Rs. 1300893.93
+Difference (float - Decimal): Rs. 0.00
+Float total time: 0.007058 seconds
+Decimal total time: 0.395921 seconds
+Float, round each payment: Rs. 1300902.49
+Decimal, round each payment: Rs. 1300902.49
+Float per-payment time: 0.095362 seconds
+Decimal per-payment time: 0.368479 seconds
+
+Number of payments: 150,000
+Float total, round at end: Rs. 32523688.30
+Decimal total, round at end: Rs. 32523688.30
+Difference (float - Decimal): Rs. 0.00
+Float total time: 0.858894 seconds
+Decimal total time: 6.913378 seconds
+Float, round each payment: Rs. 32523902.58
+Decimal, round each payment: Rs. 32523902.58
+Float per-payment time: 1.436168 seconds
+Decimal per-payment time: 8.584631 seconds
+
+RATE TABLE COMPARISON
+Distinct FAT/SNF pairs (k): 77
+Recalculation time: 0.797471 seconds
+Table creation time: 0.204745 seconds
+Dictionary lookup time: 0.200037 seconds
+Extra table space: O(k) entries
+Totals agree: True
+
+
+** Process exited - Return Code: 0 **

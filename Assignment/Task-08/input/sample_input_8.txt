@@ -1,0 +1,4 @@
+
+Enter milk quantity (litres): 10
+Enter FAT percentage: 3.5
+Enter SNF percentage: 8.5

@@ -1,0 +1,27 @@
+
+SAMPLE_ENTRY_1
+quantity = 5.00
+fat = 3.0
+snf = 8.0
+
+SAMPLE_ENTRY_2
+quantity = 5.25
+fat = 3.1
+snf = 8.1
+
+SAMPLE_ENTRY_3
+quantity = 5.50
+fat = 3.2
+snf = 8.2
+
+SAMPLE_ENTRY_4
+quantity = 5.75
+fat = 3.3
+snf = 8.3
+
+SAMPLE_ENTRY_5
+quantity = 6.00
+fat = 3.4
+snf = 8.4
+
+

@@ -1,0 +1,6 @@
+Enter base rate per litre (Rs): 30
+Enter illustrative rate per fat point (Rs): 0.40
+Enter illustrative rate per SNF point (Rs): 0.30
+Enter milk quantity in litres: 10
+Enter fat percentage (3.0 to 7.0): 4.3
+Enter SNF percentage (minimum 7.5): 8.2

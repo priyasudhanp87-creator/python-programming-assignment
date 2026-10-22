@@ -1,0 +1,9 @@
+Number of entries: 1
+
+Farmer ID: f101
+Day number: 1
+Milk quantity (litres): 10
+Fat percentage: 4.3
+SNF percentage: 8.3
+Shift: Morning
+Rate per litre (Rs): 44

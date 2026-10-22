@@ -1,0 +1,4 @@
+Enter clerk name: Arun
+Enter fat percentage (example 8.5): 8.5
+Enter milk quantity in litres: 10
+Enter base rate per litre (Rs): 30

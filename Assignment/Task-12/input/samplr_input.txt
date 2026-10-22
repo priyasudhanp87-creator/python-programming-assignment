@@ -1,0 +1,4 @@
+Enter fat reading (e.g. 4.25): 4.25
+Enter SNF reading (e.g. 8.50): 8.50
+Enter today's milk quantity in litres: 20
+Enter total supply in 10 days: 520

@@ -1,0 +1,3 @@
+How many payment amounts? 2
+Enter payment 1 (example 440.00): 440.00
+Enter payment 2 (example 440.00): 562.50

@@ -1,0 +1,32 @@
+MILK PAYMENT CALCULATOR
+Rate per litre: Rs. 44.00
+
+Day 1
+Enter litres of milk: 10
+
+Day 2
+Enter litres of milk: 8
+
+Day 3
+Enter litres of milk: 12
+
+Day 4
+Enter litres of milk: 9
+
+Day 5
+Enter litres of milk: 11
+
+Day 6
+Enter litres of milk: 10
+
+Day 7
+Enter litres of milk: 8
+
+Day 8
+Enter litres of milk: 12
+
+Day 9
+Enter litres of milk: 10
+
+Day 10
+Enter litres of milk: 10

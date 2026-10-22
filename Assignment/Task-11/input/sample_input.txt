@@ -1,0 +1,3 @@
+Enter fat steps: 7
+Enter SNF steps: 7
+Enter milk quantity in litres: 10

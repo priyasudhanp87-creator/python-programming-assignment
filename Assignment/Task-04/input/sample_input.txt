@@ -1,0 +1,10 @@
+Enter fat percentage: 4.2
+Enter SNF percentage: 8.2
+Enter milk quantity in litres: 10
+Enter base rate per litre: 30
+Enter rate per fat step: 0.40
+Enter rate per SNF step: 0.30
+Enter fat step size: 0.1
+Enter SNF step size: 0.1
+Enter base fat percentage: 3.5
+Enter base SNF percentage: 7.5
