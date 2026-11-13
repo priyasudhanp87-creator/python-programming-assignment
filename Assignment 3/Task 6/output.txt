@@ -1,0 +1,148 @@
+Train number: 12601
+Train name: Chennai Express
+Running days: ['Friday', 'Monday', 'Wednesday']
+Chennai Arrival: 06:00 Departure: 06:10
+Katpadi Arrival: 08:00 Departure: 08:05
+Jolarpettai Arrival: 09:30 Departure: 09:35
+Bangalore Arrival: 12:00 Departure: 12:10
+
+Train number: 12602
+Train name: Coimbatore Express
+Running days: ['Saturday', 'Thursday', 'Tuesday']
+Chennai Arrival: 07:00 Departure: 07:10
+Salem Arrival: 11:00 Departure: 11:05
+Erode Arrival: 12:00 Departure: 12:05
+Coimbatore Arrival: 14:00 Departure: 14:10
+
+Train number: 12603
+Train name: Madurai Express
+Running days: ['Friday', 'Monday', 'Tuesday']
+Chennai Arrival: 08:00 Departure: 08:10
+Villupuram Arrival: 10:00 Departure: 10:05
+Trichy Arrival: 13:00 Departure: 13:05
+Madurai Arrival: 15:00 Departure: 15:10
+
+Train number: 12604
+Train name: Mysore Express
+Running days: ['Sunday', 'Thursday', 'Wednesday']
+Chennai Arrival: 09:00 Departure: 09:10
+Katpadi Arrival: 11:00 Departure: 11:05
+Bangalore Arrival: 14:00 Departure: 14:05
+Mysore Arrival: 16:00 Departure: 16:10
+
+Train number: 12605
+Train name: Tirunelveli Express
+Running days: ['Monday', 'Saturday', 'Sunday']
+Chennai Arrival: 10:00 Departure: 10:10
+Villupuram Arrival: 12:00 Departure: 12:05
+Trichy Arrival: 15:00 Departure: 15:05
+Tirunelveli Arrival: 19:00 Departure: 19:10
+
+Departure of third station: 09:35
+
+Trains stopping at Katpadi on Wednesday
+('12601', 'Chennai Express', '08:05')
+('12604', 'Mysore Express', '11:05')
+
+Station index:
+{'Chennai': ['12601', '12602', '12603', '12604', '12605'], 'Katpadi': ['12601', '12604'], 'Jolarpettai': ['12601'], 'Bangalore': ['12601', '12604'], 'Salem': ['12602'], 'Erode': ['12602'], 'Coimbatore': ['12602'], 'Villupuram': ['12603', '12605'], 'Trichy': ['12603', '12605'], 'Madurai': ['12603'], 'Mysore': ['12604'], 'Tirunelveli': ['12605']}
+
+Using station index:
+['12601', '12604']
+
+Unknown station test:
+[]
+
+Day test:
+[]
+
+Timing experiment:
+
+Trains: 100
+Without index: 0.0013147201389074326
+Index creation: 4.354002885520458e-05
+Indexed query: 8.998904377222061e-07
+
+Trains: 1000
+Without index: 0.00046469992958009243
+Index creation: 0.0002904001157730818
+Indexed query: 7.699709385633469e-07
+
+Trains: 10000
+Without index: 0.004313659854233265
+Index creation: 0.0024903800804167986
+Indexed query: 5.098991096019745e-07
+Train number: 12601
+Train name: Chennai Express
+Running days: ['Friday', 'Monday', 'Wednesday']
+Chennai Arrival: 06:00 Departure: 06:10
+Katpadi Arrival: 08:00 Departure: 08:05
+Jolarpettai Arrival: 09:30 Departure: 09:35
+Bangalore Arrival: 12:00 Departure: 12:10
+
+Train number: 12602
+Train name: Coimbatore Express
+Running days: ['Saturday', 'Thursday', 'Tuesday']
+Chennai Arrival: 07:00 Departure: 07:10
+Salem Arrival: 11:00 Departure: 11:05
+Erode Arrival: 12:00 Departure: 12:05
+Coimbatore Arrival: 14:00 Departure: 14:10
+
+Train number: 12603
+Train name: Madurai Express
+Running days: ['Friday', 'Monday', 'Tuesday']
+Chennai Arrival: 08:00 Departure: 08:10
+Villupuram Arrival: 10:00 Departure: 10:05
+Trichy Arrival: 13:00 Departure: 13:05
+Madurai Arrival: 15:00 Departure: 15:10
+
+Train number: 12604
+Train name: Mysore Express
+Running days: ['Sunday', 'Thursday', 'Wednesday']
+Chennai Arrival: 09:00 Departure: 09:10
+Katpadi Arrival: 11:00 Departure: 11:05
+Bangalore Arrival: 14:00 Departure: 14:05
+Mysore Arrival: 16:00 Departure: 16:10
+
+Train number: 12605
+Train name: Tirunelveli Express
+Running days: ['Monday', 'Saturday', 'Sunday']
+Chennai Arrival: 10:00 Departure: 10:10
+Villupuram Arrival: 12:00 Departure: 12:05
+Trichy Arrival: 15:00 Departure: 15:05
+Tirunelveli Arrival: 19:00 Departure: 19:10
+
+Departure of third station: 09:35
+
+Trains stopping at Katpadi on Wednesday
+('12601', 'Chennai Express', '08:05')
+('12604', 'Mysore Express', '11:05')
+
+Station index:
+{'Chennai': ['12601', '12602', '12603', '12604', '12605'], 'Katpadi': ['12601', '12604'], 'Jolarpettai': ['12601'], 'Bangalore': ['12601', '12604'], 'Salem': ['12602'], 'Erode': ['12602'], 'Coimbatore': ['12602'], 'Villupuram': ['12603', '12605'], 'Trichy': ['12603', '12605'], 'Madurai': ['12603'], 'Mysore': ['12604'], 'Tirunelveli': ['12605']}
+
+Using station index:
+['12601', '12604']
+
+Unknown station test:
+[]
+
+Day test:
+[]
+
+Timing experiment:
+
+Trains: 100
+Without index: 0.0013147201389074326
+Index creation: 4.354002885520458e-05
+Indexed query: 8.998904377222061e-07
+
+Trains: 1000
+Without index: 0.00046469992958009243
+Index creation: 0.0002904001157730818
+Indexed query: 7.699709385633469e-07
+
+Trains: 10000
+Without index: 0.004313659854233265
+Index creation: 0.0024903800804167986
+Indexed query: 5.098991096019745e-07
